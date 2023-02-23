@@ -296,6 +296,12 @@ small {
   width: 400px;
 }
 
+.gallery img{
+  margin: 10px;
+  height: auto;
+  width: 300px;
+}
+
 .tm-call-to-action-text {
   padding: 50px 60px;
   min-height: 400px;
