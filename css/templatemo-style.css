@@ -290,6 +290,11 @@ small {
   height: auto;
 }
 
+.podcast-image {
+  margin: 20px;
+  max-width: 400px;
+}
+
 .tm-profile-image {
   margin-right: 20px;
   height: auto;
@@ -791,11 +796,11 @@ p {
 @media (max-width: 849px) {
   .tm-call-to-action-col {
     flex-direction: column;
+    margin: 15px;
   }
 
   .tm-call-to-action-image {
-    margin-right: 0;
-    margin-bottom: 30px;
+    margin: 30px;
   }
 
   .tm-call-to-action-text {
